@@ -1,9 +1,9 @@
 ---
 template: SinglePost
-title: This is a test post
+title: This is a test post edit
 status: Published
-date: '2020-05-29'
-featuredImage: 'https://ucarecdn.com/907e3347-fbca-432a-a4e4-179289910767/'
+date: 2020-05-29
+featuredImage: https://ucarecdn.com/907e3347-fbca-432a-a4e4-179289910767/
 excerpt: This is an excerpt from the blog posting
 categories:
   - category: News
